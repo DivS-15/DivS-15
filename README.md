@@ -12,7 +12,7 @@
 
 
 ## Blogging:
-### Follow me on medium for articles on android and kotlin
+### Follow me on Medium for articles on android and kotlin
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@saraswatdivyansh/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@saraswatdivyansh/0" alt="Recent Article 0">
 
