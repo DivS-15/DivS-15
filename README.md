@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hi there 👋, myself Divyansh Saraswat
 
-<!--
-**DivS-15/DivS-15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌱 I’m currently learning Android development with Kotlin.
 
-Here are some ideas to get you started:
+### 📫 How to reach me: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### [LinkedIn](www.linkedin.com/in/divyansh-saraswat-03a805216)
+
+#### saraswatdivyansh@gmail.com
+
+### ⚡ Fun fact: You can view my contributions on [Google Developers Dev library](https://devlibrary.withgoogle.com/authors/saraswatdivyansh) as well.
+
+
+## Blogging:
+### Follow me on medium for articles on android and kotlin
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@saraswatdivyansh/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@saraswatdivyansh/0" alt="Recent Article 0">
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@saraswatdivyansh/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@saraswatdivyansh/1" alt="Recent Article 1">
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@saraswatdivyansh/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@saraswatdivyansh/2" alt="Recent Article 2">
