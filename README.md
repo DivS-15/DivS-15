@@ -1,14 +1,14 @@
-## Hi there 👋, myself Divyansh Saraswat
+# Hi there 👋, myself Divyansh Saraswat
 
 ### 🌱 I’m currently learning Android development with Kotlin.
 
-### 📫 How to reach me: 
+## 📫 How to reach me: 
 
-#### [LinkedIn](www.linkedin.com/in/divyansh-saraswat-03a805216)
+### [LinkedIn](www.linkedin.com/in/divyansh-saraswat-03a805216)
 
-#### saraswatdivyansh@gmail.com
+### saraswatdivyansh@gmail.com
 
-### ⚡ Fun fact: You can view my contributions on [Google Developers Dev library](https://devlibrary.withgoogle.com/authors/saraswatdivyansh) as well.
+## ⚡ Fun fact: You can view my contributions on [Google Developers Dev library](https://devlibrary.withgoogle.com/authors/saraswatdivyansh) as well.
 
 
 ## Blogging:
