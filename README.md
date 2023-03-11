@@ -1,6 +1,6 @@
 # Hi there 👋, myself Divyansh Saraswat
 
-### 🌱 I’m currently learning Android development with Kotlin.
+### 🌱 I’m a Flutter enthusiast and I've built several applications for Android platform.
 
 ## 📫 How to reach me: 
 
